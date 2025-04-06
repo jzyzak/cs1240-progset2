@@ -1,1 +1,2 @@
-# cs1240-progset2
+# CS 1240 PROGSET 2
+This code was developed for the second programming set in the CS 1240 (Data Structures and Algorithms) course at Harvard. In it, we implemented Strassen's algorithm for matrix multiplication and optimized it to (1) handle odd dimensions by padding the matrix to the next highest power of 2 and (2) switch to standard matrix multiplication at the optimal crossover point when standard matrix multiplication becomes more optimal than Strassen's.
